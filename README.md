@@ -1,6 +1,8 @@
 <!--
 **mateusaubin/mateusaubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+sourced from https://rahuldkjain.github.io/gh-profile-readme-generator/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,6 +22,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at **Amazon** on the International Technology org
 
 - 🎓 I've got a Masters Degree from **UNISINOS** (Universidade do Vale do Rio dos Sinos) in 2019
+
+- 📝 You can see some of my presentations at **[Slideshare](https://www.slideshare.net/MateusAubin)**
 
 - 💬 Ask me about **Cloud Computing, Infrastructure as Code, Software Development**
 
